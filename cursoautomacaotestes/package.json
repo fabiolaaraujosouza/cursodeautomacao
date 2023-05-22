@@ -1,0 +1,14 @@
+{
+  "name": "cursoautomacaotestes",
+  "version": "1.0.0",
+  "description": "primeiro exercicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Fabiola Araujo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
